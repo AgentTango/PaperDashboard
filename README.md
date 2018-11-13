@@ -1,0 +1,2 @@
+# PaperDashboard
+A simple dashboard.
